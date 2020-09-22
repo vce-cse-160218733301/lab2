@@ -1,0 +1,17 @@
+@media print
+{
+    body
+    {
+        border:double 5px solid purple;
+        background-color: springgreen;
+    }
+
+}
+@media (max-width:500px)
+{
+    body
+    {
+        background-color: violet;
+        border:double 10px solid red;
+    }
+}
